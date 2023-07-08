@@ -1,0 +1,50 @@
+body{
+    background-color: #E4F9F5;
+    color: #40514E;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+}
+
+.cred{
+    text-align: right;
+    word-spacing: 5px;
+    font-family: 'Merriweather', serif;
+    margin-right: 20px;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+h1{
+    color: #40514E;
+    text-align: center;
+    line-height: 72%;
+}
+
+.top-container{
+    background-color: #E3FDFD;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.first{
+    float: left;
+    width: 40%;
+    margin-right: 15px;
+}
+
+.third{
+    width: 60%;
+    
+}
+
+.middle-container{
+    
+    
+    
+}
+
+.bottom-container{
+    
+}
